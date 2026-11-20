@@ -38,6 +38,9 @@ New here? Use gift card **WELCOME10** on your first purchase!
 
 ## Other FiveM Scripts
 
+* [Duty V3](https://groot-development.tebex.io/package/7817998)
+* [Modern Interact & Progress Bar](https://groot-development.tebex.io/package/7733893)
+* [Crafting Creator](https://groot-development.tebex.io/package/7706957)
 * [Advanced & Complete Business Supply Chain Logistics](https://groot-development.tebex.io/package/7645105)
 * [Ownable Shop Creator](https://groot-development.tebex.io/package/7548723)
 * [Advanced Coin Shop](https://groot-development.tebex.io/package/7471624)
