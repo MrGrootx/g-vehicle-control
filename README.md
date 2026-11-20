@@ -1,8 +1,6 @@
 # Vehicle Control
 
-`g-vehicle-control` is a clean, modern vehicle control menu that sits at the bottom of the screen.
-
-Press **Y** (or use `/vehcontrol`) while in a vehicle to switch seats, open doors, roll windows, toggle the engine, lights, indicators and much more — all from one compact panel, fully synced with every player around you.
+`g-vehicle-control` is a vehicle menu for FiveM. Press **Y** or type `/vehcontrol` inside a vehicle to control seats, doors, windows, engine, lights and more. Changes are synced, so other players see them too.
 
 ---
 
